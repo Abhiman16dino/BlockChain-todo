@@ -13,7 +13,7 @@ Welcome to **BlockChain-todo**! This project demonstrates the power of blockchai
 
 ## 🌐 Demo
 
-Check out the live demo [here](https://example.com/demo) (replace with your demo link) to see BlockChain-todo in action!
+Check out the live demo [here](https://example.com/demo) to see BlockChain-todo in action!
 
 ## 🔧 Technologies Used
 
