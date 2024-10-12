@@ -26,6 +26,8 @@ Check out the live demo [here](https://example.com/demo) to see BlockChain-todo 
 
 To get started with BlockChain-todo, follow these steps:
 
+Make sure you have local instance of blockchain running (Ganache).
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Abhiman16dino/BlockChain-todo.git
