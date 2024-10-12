@@ -43,7 +43,7 @@ To get started with BlockChain-todo, follow these steps:
 
 4. **Run the application**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 📚 Usage
