@@ -1,10 +1,4 @@
-Here's a beautiful README template for your GitHub project, **BlockChain-todo**:
-
----
-
 # BlockChain-todo
-
-![BlockChain-todo Logo](https://example.com/logo.png) <!-- Add your logo here -->
 
 ## 📜 Overview
 
@@ -89,6 +83,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Solidity](https://soliditylang.org/) - The smart contract language we used.
 - [Web3.js](https://web3js.readthedocs.io/) - The library that connects our front-end to the blockchain.
 
----
 
 Feel free to customize this template to better fit your project, including replacing links, images, or any other specific details you want to include!
